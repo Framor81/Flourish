@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Flourish/app/static/css/main.b2307cdb.chunk.css",
+    "main.js": "/Flourish/app/static/js/main.c569a729.chunk.js",
+    "main.js.map": "/Flourish/app/static/js/main.c569a729.chunk.js.map",
+    "runtime-main.js": "/Flourish/app/static/js/runtime-main.fb5c4db9.js",
+    "runtime-main.js.map": "/Flourish/app/static/js/runtime-main.fb5c4db9.js.map",
+    "static/js/2.68e1a491.chunk.js": "/Flourish/app/static/js/2.68e1a491.chunk.js",
+    "static/js/2.68e1a491.chunk.js.map": "/Flourish/app/static/js/2.68e1a491.chunk.js.map",
+    "static/js/3.c86987bd.chunk.js": "/Flourish/app/static/js/3.c86987bd.chunk.js",
+    "static/js/3.c86987bd.chunk.js.map": "/Flourish/app/static/js/3.c86987bd.chunk.js.map",
+    "index.html": "/Flourish/app/index.html",
+    "precache-manifest.dceece8f218f368938ae465ab184e9b2.js": "/Flourish/app/precache-manifest.dceece8f218f368938ae465ab184e9b2.js",
+    "service-worker.js": "/Flourish/app/service-worker.js",
+    "static/css/main.b2307cdb.chunk.css.map": "/Flourish/app/static/css/main.b2307cdb.chunk.css.map",
+    "static/js/2.68e1a491.chunk.js.LICENSE.txt": "/Flourish/app/static/js/2.68e1a491.chunk.js.LICENSE.txt",
+    "static/media/Flowerish.png": "/Flourish/app/static/media/Flowerish.b522fb34.png",
+    "static/media/plant1.png": "/Flourish/app/static/media/plant1.a4772191.png",
+    "static/media/plant10.png": "/Flourish/app/static/media/plant10.8720912f.png",
+    "static/media/plant11.png": "/Flourish/app/static/media/plant11.c79d26c5.png",
+    "static/media/plant12.png": "/Flourish/app/static/media/plant12.fa0831b5.png",
+    "static/media/plant2.png": "/Flourish/app/static/media/plant2.067e4f8d.png",
+    "static/media/plant3.png": "/Flourish/app/static/media/plant3.8675e77d.png",
+    "static/media/plant4.png": "/Flourish/app/static/media/plant4.87238629.png",
+    "static/media/plant5.png": "/Flourish/app/static/media/plant5.22c14c4b.png",
+    "static/media/plant6.png": "/Flourish/app/static/media/plant6.ec736d84.png",
+    "static/media/plant7.png": "/Flourish/app/static/media/plant7.3f2bea23.png",
+    "static/media/plant8.png": "/Flourish/app/static/media/plant8.f3f2aec6.png",
+    "static/media/plant9.png": "/Flourish/app/static/media/plant9.726d4069.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb5c4db9.js",
+    "static/js/2.68e1a491.chunk.js",
+    "static/css/main.b2307cdb.chunk.css",
+    "static/js/main.c569a729.chunk.js"
+  ]
+}
