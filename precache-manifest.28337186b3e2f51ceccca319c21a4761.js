@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a50d502d3aea032dda5e6b5795295b30",
+    "revision": "a1c491c36b158e1e512f2cdee9963e53",
     "url": "/Flourish/app/index.html"
   },
   {
-    "revision": "bbf00e1bc525dba72be2",
+    "revision": "6ec1e56d1e39ca3a2ffc",
     "url": "/Flourish/app/static/css/main.b2307cdb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Flourish/app/static/js/3.c86987bd.chunk.js"
   },
   {
-    "revision": "bbf00e1bc525dba72be2",
-    "url": "/Flourish/app/static/js/main.c569a729.chunk.js"
+    "revision": "6ec1e56d1e39ca3a2ffc",
+    "url": "/Flourish/app/static/js/main.ff07ba51.chunk.js"
   },
   {
     "revision": "de21c2a72308e7036f71",
